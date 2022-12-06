@@ -93,3 +93,4 @@ Tested on Nvidia K80 GPU with CUDA 9.0, with Anaconda Python 3.6
 - **data** : Include example a small amount of data in the Github repository so tests can be run to validate installatio
 - **static** : Any images or content to include in the README or web framework if part of the pipeline
 - to be continueed
+# ICIP2023
