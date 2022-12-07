@@ -1,4 +1,8 @@
 # ICIP2023
+## 0 Enviroments
+
+pip install -r requirements.txt
+
 ## 1 To use the demo
 refer to TLGAN https://github.com/SummitKwan/transparent_latent_gan
 
